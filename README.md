@@ -1,6 +1,6 @@
 # Hi, I'm Narges 👋
 
-### Data Science & AI | Machine Learning | Data Engineering | LLM | Signal Processing
+### Data Science & AI | Machine Learning and Deep Learning | Data Engineering | LLM | Signal Processing
 
 I work across **data science, machine learning, data engineering, and analytics**, with a background in **telecommunication engineering** and hands-on experience building data and ML solutions.
 
