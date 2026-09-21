@@ -18,6 +18,16 @@ My work spans **Python, SQL, Azure, Microsoft Fabric, Databricks, Power BI, and 
 
 Data Science · AI & Machine Learning · Data Engineering · Time-Series Analysis · Forecasting · Data Analytics · Signal Processing
 
+
+### 📌 Featured Projects
+
+Here are some of the projects I'm currently working on:
+
+Machine Learning — [Project link]
+Data Engineering / Azure & Fabric — [Project link]
+Time-Series / Forecasting — [Project link]
+Signal Processing — [Project link]
+
 ### 🎓 Background
 
 **Information and Communication Technology — Chalmers University of Technology**
