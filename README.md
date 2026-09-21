@@ -9,7 +9,7 @@ My work spans **Python, SQL, Azure, Microsoft Fabric, Databricks, Power BI, and 
 ### 🔍 Technical Skills
 
 * **Programming:** Python, SQL, MATLAB, C++
-* **Machine Learning:** PyTorch, Scikit-learn, feature engineering, model evaluation
+* **Machine Learning:** PyTorch, Scikit-learn, feature engineering, model evaluation, MLops
 * **Data Engineering:** Azure, Microsoft Fabric, Databricks, Lakehouse, ETL/ELT
 * **Analytics:** Power BI, DAX, Semantic Models
 * **Signal & Time-Series:** Signal processing, sensor fusion, filtering, forecasting
