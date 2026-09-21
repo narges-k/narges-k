@@ -10,6 +10,7 @@ My work spans **Python, SQL, Azure, Microsoft Fabric, Databricks, Power BI, and 
 
 * **Programming:** Python, SQL, MATLAB, C++
 * **Machine Learning:** PyTorch, Scikit-learn, feature engineering, model evaluation, MLops
+* **AI Tools:** Anthropic Claude API, RAG pipelines (ChromaDB), Cursor, Claude Code, Prompt Engineering
 * **Data Engineering:** Azure, Microsoft Fabric, Databricks, Lakehouse, ETL/ELT
 * **Analytics:** Power BI, DAX, Semantic Models
 * **Signal & Time-Series:** Signal processing, sensor fusion, filtering, forecasting
@@ -20,10 +21,8 @@ Data Science · AI & Machine Learning · Data Engineering · Time-Series Analysi
 
 ### 📌 Featured Projects
 
-Here are some of the projects I'm currently working on:
-
-* **Machine Learning** — [Project link]
-* **Data Engineering / Azure & Fabric** — [Project link]
+* **[docu-chat](https://github.com/narges-k/docu-chat)** — RAG service (FastAPI + ChromaDB + Claude) that answers questions over your own docs with cited sources. Dockerized, with CI.
+* **[ops-sentinel](https://github.com/narges-k/ops-sentinel)** — CLI agent that monitors system health and asks Claude to triage incidents, with a whitelist-only safe auto-remediation mode.
 * **Time-Series / Forecasting** — [Project link]
 * **Signal Processing** — [Project link]
 
