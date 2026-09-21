@@ -2,41 +2,27 @@
 
 ### Data Science & AI | Machine Learning | Data Engineering
 
-I'm an MSc student in **Data Science and AI at Chalmers University of Technology**, with a background in **Telecommunication Engineering** and experience working with machine learning, data analysis, signal processing, and data engineering.
+I work across **data science, machine learning, data engineering, and analytics**, with a background in **telecommunication engineering** and hands-on experience building data and ML solutions.
 
-### 🔍 What I work with
+My work spans **Python, SQL, Azure, Microsoft Fabric, Databricks, Power BI, and machine learning frameworks**, with a particular interest in time-series data, forecasting, and intelligent data-driven systems.
+
+### 🔍 Technical Skills
 
 * **Programming:** Python, SQL, MATLAB, C++
 * **Machine Learning:** PyTorch, Scikit-learn, feature engineering, model evaluation
-* **Data & Cloud:** Azure, Microsoft Fabric, Databricks, Lakehouse, ETL/ELT
-* **Analytics:** Power BI, DAX, semantic models
-* **Signal Processing:** filtering, sensor fusion, time-series analysis, communication systems
+* **Data Engineering:** Azure, Microsoft Fabric, Databricks, Lakehouse, ETL/ELT
+* **Analytics:** Power BI, DAX, Semantic Models
+* **Signal & Time-Series:** Signal processing, sensor fusion, filtering, forecasting
 
-### 🚀 Areas of interest
+### 🚀 Areas of Interest
 
-* Data Science
-* Machine Learning & AI
-* Data Engineering
-* Time-Series Analysis
-* Signal Processing
-* Data Analytics & Visualization
+Data Science · AI & Machine Learning · Data Engineering · Time-Series Analysis · Forecasting · Data Analytics · Signal Processing
 
-### 📌 Featured Projects
+### 🎓 Background
 
-Here are some of the projects I'm currently working on:
+**Information and Communication Technology — Chalmers University of Technology**
 
-* **Machine Learning** — [Project link]
-* **Data Engineering / Azure & Fabric** — [Project link]
-* **Time-Series / Forecasting** — [Project link]
-* **Signal Processing** — [Project link]
-
-### 🎓 Education
-
-**MSc in Data Science and AI**
-Chalmers University of Technology
-
-**MSc in Telecommunication Engineering**
-Shahid Beheshti University
+**MSc in Telecommunication Engineering — Shahid Beheshti University**
 
 ### 🤝 Let's connect
 
